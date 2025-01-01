@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imdeepaksuthar" alt="imdeepaksuthar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/deepak_suthar14" target="blank"><img src="https://img.shields.io/twitter/follow/deepak_suthar14?logo=twitter&style=for-the-badge" alt="deepak_suthar14" /></a> </p>
-
 - 🌱 I’m currently learning **Laravel 11, Vue.js, Node.js and Advanced APIs**
 
 - 💬 Ask me about **PHP, Laravel, and RESTful APIs**
@@ -14,6 +12,10 @@
 - 📫 How to reach me **imdeepaksuthar@gmail.com**
 
 - ⚡ Fun fact **I think I’m a pro at debugging... until the bug wins!**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
